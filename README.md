@@ -2,4 +2,8 @@
 
 React JS Fundamentals Course
 
-detail.css 수정하기
+
+
+
+
+* detail.css 수정하기
